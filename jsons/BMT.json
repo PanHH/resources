@@ -5,7 +5,7 @@
         "minor": 0,
         "patch": 0
     },
-    "logoURI": "https://raw.githubusercontent.com/PanHH/Test/master/PANT.png",
+    "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png",
     "timestamp": "2021-11-04 00:00:00.000+00:00",
     "tokens": [
         {
@@ -14,7 +14,7 @@
             "name": "BMT Token",
             "symbol": "BMT",
             "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/PanHH/Test/master/PANT.png"
+            "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
         }
     ]
 }
