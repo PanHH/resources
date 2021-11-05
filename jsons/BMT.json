@@ -1,0 +1,20 @@
+{
+    "name": "BMT Tokens List",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "logoURI": "https://raw.githubusercontent.com/PanHH/Test/master/PANT.png",
+    "timestamp": "2021-11-04 00:00:00.000+00:00",
+    "tokens": [
+        {
+            "chainId": 4,
+            "address": "0x2a5260B12ED4c3e031BeA4CA8268ba8D701E27eb",
+            "name": "BMT Token",
+            "symbol": "BMT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/PanHH/Test/master/PANT.png"
+        }
+    ]
+}
