@@ -1,5 +1,5 @@
 {
-    "name": "BMT Tokens List",
+    "name": "PAN Tokens List",
     "version": {
         "major": 1,
         "minor": 0,
@@ -13,6 +13,14 @@
             "address": "0x2a5260B12ED4c3e031BeA4CA8268ba8D701E27eb",
             "name": "BMT Token",
             "symbol": "BMT",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0xBf79bD100f0F119e3Fe3F6dDf4C97f12bb0d23e0",
+            "name": "BMT2 Token",
+            "symbol": "BMT2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
         }
