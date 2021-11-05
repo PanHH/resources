@@ -23,6 +23,14 @@
             "symbol": "BMT2",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
+        },
+        {
+            "chainId": 4,
+            "address": "0x5A78aFe4423D5ceCA8d438fFff42774D52B470aa",
+            "name": "BMT3 Token",
+            "symbol": "BMT3",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
         }
     ]
 }
