@@ -10,9 +10,9 @@
     "tokens": [
         {
             "chainId": 4,
-            "address": "0x33335CECD7673bE506EFC2194F1a06f1a0ebC468",
-            "name": "BMT4 Token",
-            "symbol": "BMT4",
+            "address": "0x8dE283434A4E5F394C78a567deF692FF99A8dDFA",
+            "name": "BMT5 Token",
+            "symbol": "BMT5",
             "decimals": 18,
             "logoURI": "https://raw.githubusercontent.com/PanHH/resources/master/pics/PANT.png"
         }
